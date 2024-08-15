@@ -1,2 +1,8 @@
 # save-file-laravel-controller
-hellper function for saving uniqe files in your laravel storage
+
+Things you can acheave Useing this helper:
+
+- Get readable file size based on bytes like 15 MB 
+- Generate uniqe names for files
+- Save files in laravel storage
+ 
